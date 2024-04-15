@@ -1,0 +1,5 @@
+.idea
+CMakeFiles/*
+cmake-build-debug
+
+loader/*.class
